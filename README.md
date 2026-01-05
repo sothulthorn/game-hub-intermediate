@@ -13,3 +13,4 @@ To get started with GameHub, follow these steps:
 5. Run npm run dev to start the web server.
 
 ![](/preview.png)
+![](/preview-2.png)
